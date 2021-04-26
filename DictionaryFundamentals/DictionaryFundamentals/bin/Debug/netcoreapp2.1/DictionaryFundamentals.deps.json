@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "DictionaryFundamentals/1.0.0": {
+        "runtime": {
+          "DictionaryFundamentals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DictionaryFundamentals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

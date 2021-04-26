@@ -1,0 +1,10 @@
+C:\Users\Shermaine\source\repos\DictionaryFundamentals\DictionaryFundamentals\bin\Debug\netcoreapp2.1\DictionaryFundamentals.deps.json
+C:\Users\Shermaine\source\repos\DictionaryFundamentals\DictionaryFundamentals\bin\Debug\netcoreapp2.1\DictionaryFundamentals.runtimeconfig.json
+C:\Users\Shermaine\source\repos\DictionaryFundamentals\DictionaryFundamentals\bin\Debug\netcoreapp2.1\DictionaryFundamentals.runtimeconfig.dev.json
+C:\Users\Shermaine\source\repos\DictionaryFundamentals\DictionaryFundamentals\bin\Debug\netcoreapp2.1\DictionaryFundamentals.dll
+C:\Users\Shermaine\source\repos\DictionaryFundamentals\DictionaryFundamentals\bin\Debug\netcoreapp2.1\DictionaryFundamentals.pdb
+C:\Users\Shermaine\source\repos\DictionaryFundamentals\DictionaryFundamentals\obj\Debug\netcoreapp2.1\DictionaryFundamentals.csprojAssemblyReference.cache
+C:\Users\Shermaine\source\repos\DictionaryFundamentals\DictionaryFundamentals\obj\Debug\netcoreapp2.1\DictionaryFundamentals.AssemblyInfoInputs.cache
+C:\Users\Shermaine\source\repos\DictionaryFundamentals\DictionaryFundamentals\obj\Debug\netcoreapp2.1\DictionaryFundamentals.AssemblyInfo.cs
+C:\Users\Shermaine\source\repos\DictionaryFundamentals\DictionaryFundamentals\obj\Debug\netcoreapp2.1\DictionaryFundamentals.dll
+C:\Users\Shermaine\source\repos\DictionaryFundamentals\DictionaryFundamentals\obj\Debug\netcoreapp2.1\DictionaryFundamentals.pdb
